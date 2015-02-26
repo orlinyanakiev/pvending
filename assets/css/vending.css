@@ -1,0 +1,35 @@
+body {
+    font-family:sans-serif;
+    font-size: 18px;
+    max-width: 640px;
+    margin: auto;
+    padding: 0;
+    background-color: #D0D0D0;
+}
+
+p {
+    margin: 0;
+    padding-top: 20px;
+}
+
+.publicpage {
+    text-align: center;
+    min-height: 320px;
+    background-color: blanchedalmond;
+}
+
+form {
+    padding-left: 50%;
+    margin-left: -120px;
+    display: block;
+    width:240px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+form input {
+    padding: 5px;
+    margin: 2px;
+    min-width: 180px;
+    min-height: 20px;
+}
